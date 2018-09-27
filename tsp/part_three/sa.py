@@ -2,9 +2,17 @@ import random
 import math
 import logging
 
+#def P(prev_score,next_score,temperature):
+#    if next_score > prev_score:
+#        return 1.0
+#    else:
+#        return math.exp( -abs(next_score-prev_score)/temperature )
+
 def P(prev_score,next_score,temperature):
     if next_score > prev_score:
         return 1.0
+    elif temperature == 0:
+        return 0.0
     else:
         return math.exp( -abs(next_score-prev_score)/temperature )
 
