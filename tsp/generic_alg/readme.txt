@@ -44,9 +44,16 @@ GA - population_size=1000, 1000 generations >>> score=7384.553870940318   <<<< L
 Try: mutate = 0.005, crossover (replace with child) = 0.9, newindividualrate = 0.6 (line 236: double children to replace)
 GA - population_size=1000, 1000 generations >>> score=18233.127495618206
 
-Comment: mutate - similar to swapped_cities in SA
-         crossover - similar to reversed_sections in SA (instead of reverse,
-                                    crossover does remove genomes and then insert them in different positions)
+Comment: 
+1. mutate - similar to swapped_cities in SA
+   crossover - similar to reversed_sections in SA (instead of reverse, crossover does remove genomes 
+                                                   and then insert them in different positions)
+2. In some simulations, for the first runs, the scores are decreased every quickly; but for the next runs, 
+   the scores go down very slowly, it looks like the solutions converge to local optimum.
+   Try to increase the mutation rate to keep the search space divergent in generations.
 
 ***CONCLUSION: SHOULD TAKE ABOUT 100 RUNS AND MAKE THE AVERAGED SCORE (TRAVELLING LENGTH)
 INSTEAD OF ONE RUN AND THEN MAKING CONCLUSION
+
+***Reference:
+https://zhanggw.wordpress.com/2009/11/07/resolve-tsp-traveling-saleman-problem-in-genetic-algorithm/

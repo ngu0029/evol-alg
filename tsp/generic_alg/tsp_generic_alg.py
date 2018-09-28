@@ -12,6 +12,7 @@ Created on 2009-10-29
 import sys, random
 from math import sqrt
 from pickle import *
+import pandas as pd
 
 PIL_SUPPORT = None
 try:
@@ -148,6 +149,18 @@ class Individual:
         p2.chromosome = c2[:left] + self.chromosome[left:right + 1] \
                         + c2[left:]
         return p1, p2
+    
+    def reverse(self):
+        p = Individual()
+        c=self.chromosome[:]  # make copy, not to mutate the orignal list
+        left, right = self._pickpivots()
+        if random.random() < 0.5:
+            c[left:right+1]=reversed(self.chromosome[left:right+1])
+        else:
+            c[right+1:]=reversed(self.chromosome[:left])
+            c[:left]=reversed(self.chromosome[right+1:])
+        p.chromosome = c
+        return p
 
     def mutate(self):
         "swap two element"
@@ -184,9 +197,9 @@ class Individual:
 
 class Environment:
     #size = 0
-    def __init__(self, population=None, size=1000, maxgenerations=1000,\
-                 newindividualrate=0.6,crossover_rate=0.90,\
-                 mutation_rate=0.005, mutate_type = 'whole'):
+    def __init__(self, population=None, size=1000, maxgenerations=10,\
+                 newindividualrate=0.3,crossover_rate=0.90,\
+                 mutation_rate=0.005, mutate_type='whole', evol_operator='crossover'):
         self.size = size
         self.population = self._makepopulation()
         self.maxgenerations = maxgenerations
@@ -199,39 +212,51 @@ class Environment:
         #self.minscore = sys.maxint
         self.minscore = sys.maxsize  # https://stackoverflow.com/questions/13795758/what-is-sys-maxint-in-python-3
         self.minindividual = None
+        self.mutate_type=mutate_type
+        self.evol_operator=evol_operator
         #self._printpopulation()
         if PIL_SUPPORT:
             write_tour_to_img(coords, self.population[0].chromosome, 'score = %f'%self.minscore,\
-                              "TSPstart_GA_mutate_" + mutate_type + ".png")
+                              "TSPstart_GA_mutate_" + self.mutate_type + ".png")
         else:
             print("No PIL detected,can not plot the graph")
 
     def _makepopulation(self):
         return [Individual() for i in range(0, self.size)]
 
-    def run(self, mutate_type = 'whole'):
+    def run(self):
         for i in range(1, self.maxgenerations + 1):
-            print("Generation no:" + str(i))
+            if i%200 == 1: print("Generation no:" + str(i))
+            # check in current generation who is the best-score individual
+            # for each generation, always find the best individual and record it if it is better than that of last generation
             for j in range(0, self.size):
-                self.population[j].evaluate() # this is already done for the 1st generation
+                self.population[j].evaluate() # this is already done for the 1st generation during __init__
                 curscore = self.population[j].score
                 if curscore < self.minscore:
                     self.minscore = curscore
                     self.minindividual = self.population[j]
-            if i%500 == 0: print("Best individual:", self.minindividual)
+            if i%200 == 1: print("Best individual:", self.minindividual)
             if random.random() < self.crossover_rate:
                 children = []
-                newindividual = int(self.newindividualrate * self.size / 2)  # len(children) = 2*newindividual < self.size
-                for i in range(0, newindividual):
-                    selected1 = self._selectrank()
-                    selected2 = self._selectrank()
-                    parent1 = self.population[selected1]
-                    parent2 = self.population[selected2]
-                    child1, child2 = parent1.crossover(parent2)
-                    child1.evaluate()
-                    child2.evaluate()
-                    children.append(child1)
-                    children.append(child2)
+                if self.evol_operator == 'crossover':
+                    newindividual = int(self.newindividualrate * self.size / 2)  # len(children) = 2*newindividual < self.size
+                    for i in range(0, newindividual):
+                        selected1 = self._selectrank()
+                        selected2 = self._selectrank()
+                        parent1 = self.population[selected1]
+                        parent2 = self.population[selected2]
+                        child1, child2 = parent1.crossover(parent2)
+                        child1.evaluate()
+                        child2.evaluate()
+                        children.append(child1)
+                        children.append(child2)
+                elif self.evol_operator == 'reverse':
+                    newindividual = int(self.newindividualrate * self.size)  # len(children) = newindividual < self.size
+                    for i in range(0, newindividual):
+                        selected = self._selectrank()
+                        child = self.population[selected].reverse()
+                        child.evaluate()
+                        children.append(child)
                 #for i in range(0, newindividual):
                 for i in range(0, len(children)):
                     #replace with child
@@ -245,7 +270,7 @@ class Environment:
                         if addscore >= randscore:
                             self.population[j] = children[i]
                             break # IMPORTANT, replace only one parent by a child then move to next child i
-            if mutate_type == 'whole':
+            if self.mutate_type == 'whole':
                 for i in range(0, self.size):
                     if random.random() < self.mutation_rate:
                         self.population[i].mutate()  
@@ -282,7 +307,7 @@ class Environment:
                 break
         return selected
 
-    def _selectrank(self, choosebest=0.9):
+    def _selectrank(self, choosebest=0.9):  # the higher the para choosebest is, the more probable the better parent is chosen
         self.population.sort() # ascending order, lower score means better individual
         if random.random() < choosebest: # choose better individual
             return random.randint(0, self.size * self.newindividualrate)
@@ -298,15 +323,39 @@ def main_run():
     global cm, coords
     #get cities's coords
     #coords =cities_random(30)
-    coords=read_coords(open('city100.txt'))
+    coords=read_coords(open('D:/github/evol-alg/tsp/generic_alg/city100.txt'))
     cm = cartesian_matrix(coords)
+    num_runs = 10
     mutate = 'whole' # 'one' or 'whole
-    ev = Environment(mutate_type = mutate)
-    score = ev.run(mutate)
-    if PIL_SUPPORT:
-        write_tour_to_img(coords, ev.minindividual.chromosome, 'score = %f'%score, \
-                          "TSPresult_GA_mutate_" + mutate + ".png")
-    else:
-        print("No PIL detected,can not plot the graph")
+    pop_sizes = [1000, 1000, 1000]
+    maxgens = [1000, 1000, 1000]
+    birthrates = [0.2, 0.3, 0.4]
+    crossrates = [0.9, 0.9, 0.9]
+    mutrates = [0.005, 0.005, 0.005]
+    operators = ['crossover', 'reverse'] # 'crossover', 'reverse', 'swap'
+    for p in range(len(birthrates)):
+        for operator in operators:
+            print("..................Start.........................")
+            print('birthrate =', birthrates[p], 'operator =', operator)
+            scores = []
+            for i in range(num_runs):
+                print('Run:', str(i))
+                ev = Environment(size=pop_sizes[p], maxgenerations=maxgens[p],\
+                                 newindividualrate=birthrates[p],crossover_rate=crossrates[p],\
+                                 mutation_rate=mutrates[p], mutate_type = mutate, evol_operator = operator)
+                score = ev.run()
+                scores.append(score)
+                if PIL_SUPPORT:
+                    write_tour_to_img(coords, ev.minindividual.chromosome, 'score = %f'%score, \
+                                      "TSPresult_GA_mutate_" + mutate + ".png")
+                    print('')
+                else:
+                    print("No PIL detected,can not plot the graph")
+            avg_score = sum(scores)/len(scores)
+            scores_df = pd.DataFrame([range(num_runs), scores], index = ['run', 'score'])
+            scores_df.to_csv('tsp_genalg_paraset_' + str(p) + '_oper_' + operator + '_score_' + '%.02f' %avg_score + '.csv', index = True)
+            print("AVERAGE ON RUNS =%.02f", avg_score)
+            print("..................End.........................")
+            print('')
 if __name__ == "__main__":
     main_run()
