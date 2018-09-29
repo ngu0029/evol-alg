@@ -227,7 +227,7 @@ class Environment:
     def run(self):
         for i in range(1, self.maxgenerations + 1):
             if i%200 == 1: print("Generation no:" + str(i))
-			# FITNESS EVALUTATION STEP 
+            # FITNESS EVALUTATION STEP 
             # check in current generation who is the best-score individual
             # for each generation, always find the best individual and record it if it is better than that of last generation
             for j in range(0, self.size):
@@ -235,7 +235,7 @@ class Environment:
                 curscore = self.population[j].score
                 if curscore < self.minscore:
                     self.minscore = curscore
-                    self.minindividual = self.population[j]
+                    self.minindividual = self.population[j][:]  # should be copied since self.population[j] could be mutated in mutation step
             if i%200 == 1: print("Best individual:", self.minindividual)
             if random.random() < self.crossover_rate:
                 children = []
@@ -269,9 +269,9 @@ class Environment:
                     for j in range(0, self.size):
                         addscore += (self.population[j].score / totalscore) # the final addscore (end loop) = 1 > randscore
                         if addscore >= randscore:
-                            self.population[j] = children[i]
+                            self.population[j] = children[i]   # do not need to copy children[i] since children[i] is a new instance, see in crossover()
                             break # IMPORTANT, replace only one parent by a child then move to next child i
-			if self.mutate_type == 'whole':  # mutation is looped over the whole generation to increase the diversity
+            if self.mutate_type == 'whole':  # mutation is looped over the whole generation to increase the diversity
                 for i in range(0, self.size):
                     if random.random() < self.mutation_rate:
                         #self.population[i].mutate()  # this might cruin the generation since better individuals are also mutated
@@ -289,7 +289,7 @@ class Environment:
                 curscore = self.population[i].score
                 if curscore < self.minscore:
                     self.minscore = curscore
-                    self.minindividual = self.population[i]
+                    self.minindividual = self.population[i][:]  # should be copied since self.population[j] could be mutated in mutation step
         print("..................Result.........................")
         print(self.minindividual)
         #self._printpopulation()

@@ -28,7 +28,8 @@ class ObjectiveFunction:
         score=self.objective_function(solution)
         if self.best is None or score > self.best_score:
             self.best_score=score
-            self.best=solution
+            self.best=solution  # do not need to copy solution[:] since solution is already a copy of current best tour in move_operator(current)
+                                # see in anneal()
             logging.info('new best score: %f',self.best_score)
         return score
 
@@ -66,7 +67,7 @@ def anneal(init_function,move_operator,objective_function,max_evaluations,start_
             # always accepting better solutions
             p=P(current_score,next_score,temperature)
             if random.random() < p:
-                current=next
+                current=next  # do not need to copy next[:] since next is already a copy of current best tour in move_operator(current)
                 current_score=next_score
                 break
         # see if completely finished

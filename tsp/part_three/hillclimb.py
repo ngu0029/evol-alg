@@ -22,7 +22,7 @@ def hillclimb(init_function,move_operator,objective_function,max_evaluations):
             next_score=objective_function(next)
             num_evaluations+=1
             if next_score > best_score:
-                best=next
+                best=next  # do not need to copy next[:] since next is already a copy of current best tour in move_operator(best)
                 best_score=next_score
                 move_made=True
                 break # depth first search
