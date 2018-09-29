@@ -135,15 +135,15 @@ class Individual:
         left, right = self._pickpivots()
         p1 = Individual()
         p2 = Individual()
-        # removing (right-left+1) genomes appearing in other.chromosome[left:right+1] from self.chromosome
-        # note that self.chromosome and other.chromosome have the same genomes but in different order
+        # removing (right-left+1) genes appearing in other.chromosome[left:right+1] from self.chromosome
+        # note that self.chromosome and other.chromosome have the same genes but in different order
         # c1 has length of (self.length-(right-left+1))=(self.length-(right+1)+left) >= left
         c1 = [ c for c in self.chromosome \
                if c not in other.chromosome[left:right + 1]]
-        # inserting (right-left+1) genomes of other.chromosome[left:right+1] in c1 (part of self.chromosome)
+        # inserting (right-left+1) genes of other.chromosome[left:right+1] in c1 (part of self.chromosome)
         p1.chromosome = c1[:left] + other.chromosome[left:right + 1]\
                          + c1[left:]
-        # the same thing: remove genomes then insert the same genomes, but their ordering in the chromosome has changed
+        # the same thing: remove genes then insert the same genes, but their ordering in the chromosome has changed
         c2 = [ c for c in other.chromosome \
                if c not in self.chromosome[left:right + 1]]
         p2.chromosome = c2[:left] + self.chromosome[left:right + 1] \
@@ -227,6 +227,7 @@ class Environment:
     def run(self):
         for i in range(1, self.maxgenerations + 1):
             if i%200 == 1: print("Generation no:" + str(i))
+			# FITNESS EVALUTATION STEP 
             # check in current generation who is the best-score individual
             # for each generation, always find the best individual and record it if it is better than that of last generation
             for j in range(0, self.size):
@@ -270,10 +271,12 @@ class Environment:
                         if addscore >= randscore:
                             self.population[j] = children[i]
                             break # IMPORTANT, replace only one parent by a child then move to next child i
-            if self.mutate_type == 'whole':
+			if self.mutate_type == 'whole':  # mutation is looped over the whole generation to increase the diversity
                 for i in range(0, self.size):
                     if random.random() < self.mutation_rate:
-                        self.population[i].mutate()  
+                        #self.population[i].mutate()  # this might cruin the generation since better individuals are also mutated
+                        selected = self._select()  # this is likely selecting worse individuals for mutation
+                        self.population[selected].mutate()							
             else:
                 if random.random() < self.mutation_rate:
                     selected = self._select()

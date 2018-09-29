@@ -50,7 +50,8 @@ Comment:
                                                    and then insert them in different positions)
 2. In some simulations, for the first runs, the scores are decreased every quickly; but for the next runs, 
    the scores go down very slowly, it looks like the solutions converge to local optimum.
-   Try to increase the mutation rate to keep the search space divergent in generations.
+   Try to increase the mutation rate (apply for low fitness rank individuals) to keep the search space divergent in generations.
+   We would select individuals with highest fitness rank and the ones with the highest diversity rank.
 
 ***CONCLUSION: SHOULD TAKE ABOUT 100 RUNS AND MAKE THE AVERAGED SCORE (TRAVELLING LENGTH)
 INSTEAD OF ONE RUN AND THEN MAKING CONCLUSION
