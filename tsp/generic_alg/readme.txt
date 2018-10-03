@@ -11,8 +11,8 @@ for i in range(0, self.size):
 - Update eval_func
 - Update Individual attributes (not only chromosome, adding other features)
 - Update Individual methods, e.g. crossover, mutate for your problems
-e.g. for TSP problem, crossover - mutate methods are changed so that the genomes in each chromosome are still kept the same, but only their ordering changes. 
-     for Patient-Virus Dynamics problem, crossover - mutate methods will change in different way; more methods are introduced, e.g. birth, clear...
+e.g. for TSP problem, crossover & mutate methods are designed so that the genes in each chromosome are still kept the same, but only their ordering changes. 
+     for Patient-Virus Dynamics problem, crossover & mutate methods will be designed in different way; more methods are introduced, e.g. birth, clear...
 
 ***Comparison of generic algorithm GA vs. simulated anneal SA (the same city database - city100.txt):
 + Speed (Runtime performance): GA << SA
@@ -45,12 +45,12 @@ Try: mutate = 0.005, crossover (replace with child) = 0.9, newindividualrate = 0
 GA - population_size=1000, 1000 generations >>> score=18233.127495618206
 
 Comment: 
-1. mutate - similar to swapped_cities in SA
-   crossover - similar to reversed_sections in SA (instead of reverse, crossover does remove genomes 
-                                                   and then insert them in different positions)
+1. mutate - similar to swapped_cities method in SA
+   crossover - similar to reversed_sections method in SA (instead of reverse, crossover does remove genes in a chromosome
+                                                   and then insert them in different positions of the chromosome)
 2. In some simulations, for the first runs, the scores are decreased every quickly; but for the next runs, 
    the scores go down very slowly, it looks like the solutions converge to local optimum.
-   Try to increase the mutation rate (apply for low fitness rank individuals) to keep the search space divergent in generations.
+   Try to increase the mutation rate (apply for low fitness rank individuals) to keep the SEARCH SPACE DIVERGENT in generations (RICHNESS OF SEARCH SPACE).
    We would select individuals with highest fitness rank and the ones with the highest diversity rank.
 
 ***CONCLUSION: SHOULD TAKE ABOUT 100 RUNS AND MAKE THE AVERAGED SCORE (TRAVELLING LENGTH)
