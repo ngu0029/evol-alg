@@ -211,7 +211,8 @@ class Environment:
         self.generation = 0
         #self.minscore = sys.maxint
         self.minscore = sys.maxsize  # https://stackoverflow.com/questions/13795758/what-is-sys-maxint-in-python-3
-        self.minindividual = None
+		#self.minindividual = None
+        self.minindividual = Individual()  # create a new Individual instance instead of being assigned to one poppulation instance to AVOID MUTATED LIST ISSUE
         self.mutate_type=mutate_type
         self.evol_operator=evol_operator
         #self._printpopulation()
@@ -235,7 +236,8 @@ class Environment:
                 curscore = self.population[j].score
                 if curscore < self.minscore:
                     self.minscore = curscore
-                    self.minindividual = self.population[j][:]  # should be copied since self.population[j] could be mutated in mutation step
+                    self.minindividual.score = self.population[j].score
+					self.minindividual.chromosome = self.population[j].chromosome[:]  # should be copied since self.population[i] could be mutated in mutation step
             if i%200 == 1: print("Best individual:", self.minindividual)
             if random.random() < self.crossover_rate:
                 children = []
@@ -274,7 +276,7 @@ class Environment:
             if self.mutate_type == 'whole':  # mutation is looped over the whole generation to increase the diversity
                 for i in range(0, self.size):
                     if random.random() < self.mutation_rate:
-                        #self.population[i].mutate()  # this might cruin the generation since better individuals are also mutated
+                        #self.population[i].mutate()  # this might ruin the generation since better individuals are also mutated
                         selected = self._select()  # this is likely selecting worse individuals for mutation
                         self.population[selected].mutate()							
             else:
@@ -289,7 +291,8 @@ class Environment:
                 curscore = self.population[i].score
                 if curscore < self.minscore:
                     self.minscore = curscore
-                    self.minindividual = self.population[i][:]  # should be copied since self.population[j] could be mutated in mutation step
+                    self.minindividual.score = self.population[i].score
+					self.minindividual.chromosome = self.population[i].chromosome[:]  # should be copied since self.population[i] could be mutated in mutation step
         print("..................Result.........................")
         print(self.minindividual)
         #self._printpopulation()
