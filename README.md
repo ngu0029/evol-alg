@@ -1,7 +1,14 @@
-Source for evolutionary algorithms
+### Evolutionary Algorithms
+- [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html)
 
-Paper queue to read:
+### Neural Networks
 - [Evolutionary Stochastic Gradient Descent for
 Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
+
+### Text Processing
 - [OCR Post-Processing Text Correction using Simulated Annealing](http://aclweb.org/anthology/U17-1015)
-- [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html)
+- [Statistical Learning for OCR Text Correction](https://arxiv.org/pdf/1611.06950.pdf)
+
+### Image Segmentation
+- [ANALYSIS OF MINING IMAGES USING ACTIVE CONTOURS AND SELF ORGANIZING MIGRATION ALGORITHM](googledrive/sharedwithme/dnq)
+
