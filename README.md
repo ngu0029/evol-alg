@@ -1,5 +1,6 @@
 ### Evolutionary Algorithms
 - [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html)
+- Genetic Algorithm, Simulated Annealing, Evolution Strategies, Differential Evolution, Particle Swarm Optimization, Bees Algorithm, SOMA [code](https://zelinkaivan65.wixsite.com/somaalgorithm/codes)
 
 ### Neural Networks
 - [Evolutionary Stochastic Gradient Descent for
