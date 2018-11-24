@@ -1,6 +1,6 @@
 ### Evolutionary Algorithms
 - [Clever Algorithms: Nature-Inspired Programming Recipes](http://www.cleveralgorithms.com/nature-inspired/index.html)
-- Genetic Algorithm, Simulated Annealing, Evolution Strategies, Differential Evolution, Particle Swarm Optimization, Bees Algorithm, SOMA [code](https://zelinkaivan65.wixsite.com/somaalgorithm/codes), test functions [pdf](http://dataanalysis.vsb.cz/data/Vyuka/BIA/) [matlab](https://www.dropbox.com/sh/u3cpa39t9yh5fsf/AAB6EarzZ1NTl6iRGoyxAeB7a?dl=0&preview=SOMAMatlabV2.zip)
+- Genetic Algorithm, Simulated Annealing, Evolution Strategies, Differential Evolution, Particle Swarm Optimization, Bees Algorithm, SOMA [link](https://zelinkaivan65.wixsite.com/somaalgorithm/codes)[code](https://www.dropbox.com/sh/u3cpa39t9yh5fsf/AAB6EarzZ1NTl6iRGoyxAeB7a?dl=0&preview=SOMA_python.zip), test functions [pdf](http://dataanalysis.vsb.cz/data/Vyuka/BIA/) [matlab](https://www.dropbox.com/sh/u3cpa39t9yh5fsf/AAB6EarzZ1NTl6iRGoyxAeB7a?dl=0&preview=SOMAMatlabV2.zip)
 
 ### Neural Networks
 - [Evolutionary Stochastic Gradient Descent for
