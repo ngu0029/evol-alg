@@ -13,3 +13,8 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 ### Image Segmentation
 - [ANALYSIS OF MINING IMAGES USING ACTIVE CONTOURS AND SELF ORGANIZING MIGRATION ALGORITHM](googledrive/sharedwithme/dnq)
 
+### Cite
+- [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
+  - [Springer > click on Cite as](https://link.springer.com/)
+  - [ACM > click on BibTeX](https://dl.acm.org/)
+  - [ResearchGate > click on Download citation](https://www.researchgate.net/directory/publications)
