@@ -9,8 +9,6 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 
 ### Text Processing
 - [OCR Post-Processing Text Correction using Simulated Annealing](http://aclweb.org/anthology/U17-1015)
-- [Overview of the 2017 ALTA Shared Task: Correcting OCR Errors](http://aclweb.org/anthology/U17-1014)
-- [Statistical Learning for OCR Text Correction](https://arxiv.org/pdf/1611.06950.pdf)
 
 ### Image Segmentation
 - [ANALYSIS OF MINING IMAGES USING ACTIVE CONTOURS AND SELF ORGANIZING MIGRATION ALGORITHM](googledrive/sharedwithme/dnq)
