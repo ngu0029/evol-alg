@@ -13,6 +13,9 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 ### Image Segmentation
 - [ANALYSIS OF MINING IMAGES USING ACTIVE CONTOURS AND SELF ORGANIZING MIGRATION ALGORITHM](googledrive/sharedwithme/dnq)
 
+### Autonomous Vehicle
+- Swarm Intelligence: [Paper](https://arxiv.org/abs/1705.01693), [How Autonomous Cars Might Need to Learn from Ants](https://interestingengineering.com/swarm-intelligence-how-autonomous-cars-might-need-to-learn-from-ants), [Improve traffic flow](https://phys.org/news/2018-02-autonomous-vehicles-traffic.html )
+
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
   - [Springer > click on Cite as](https://link.springer.com/)
