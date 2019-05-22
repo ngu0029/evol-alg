@@ -31,6 +31,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - Tips:
 > - [Journal Article Publishing Support Center Q&A](https://service.elsevier.com/app/home/supporthub/publishing/), e.g. [When can I expect a decision from the Editor](https://service.elsevier.com/app/answers/detail/a_id/5992/supporthub/publishing/p/10592/)
 > - [Find out the journals that could be best suited for publishing your research](https://www.elsevier.com/authors/journal-authors/submit-your-paper#find)
+> - Search for key words in [Scimago](http://www.scimagojr.com/), e.g. "pattern recognition", "document analysis",...
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
