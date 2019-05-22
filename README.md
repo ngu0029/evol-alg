@@ -28,6 +28,9 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
 > - ISI - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D)
 > - Danh mục Scorpus - tại [Scorpus](https://www.scopus.com/sources?zone=&origin=sbrowse), tại [Elsevier Scorpus](http://www.elsevier.com/solutions/scopus/content), nhanh hơn tại [Scimago](http://www.scimagojr.com/)
+- Tips:
+> - [Journal Article Publishing Support Center Q&A](https://service.elsevier.com/app/home/supporthub/publishing/), e.g. [When can I expect a decision from the Editor](https://service.elsevier.com/app/answers/detail/a_id/5992/supporthub/publishing/p/10592/)
+> - [Find out the journals that could be best suited for publishing your research](https://www.elsevier.com/authors/journal-authors/submit-your-paper#find)
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
