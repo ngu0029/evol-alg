@@ -23,6 +23,10 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
 #### Journals:
 - []()
+#### Guidance:
+- [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
+> - ISI - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D)
+> - Danh mục Scorpus - tại [Elsevier Scorpus](http://www.elsevier.com/solutions/scopus/content), nhanh hơn tại [Scimago](http://www.scimagojr.com/)
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
