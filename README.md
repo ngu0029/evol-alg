@@ -18,8 +18,8 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 
 ### Conferences, Journals
 #### Conferences:
-- [ACM/IEEE Joint Conference on Digital Libraries - JCDL](https://2019.jcdl.org/cfps/deadlines/) - submitted in Jan
-- [International Conference on Document Analysis and Recognition -  ICDAR](https://icdar2019.org/) - submitted in Feb, [Post-OCR Correction](https://sites.google.com/view/icdar2019-postcorrectionocr/home?authuser=0) - registered in March
+- [ACM/IEEE Joint Conference on Digital Libraries - JCDL](https://2019.jcdl.org/cfps/deadlines/) - submitted in Jan - SJR 2017 0.36
+- [International Conference on Document Analysis and Recognition -  ICDAR](https://icdar2019.org/) - submitted in Feb, [Post-OCR Correction](https://sites.google.com/view/icdar2019-postcorrectionocr/home?authuser=0) - registered in March - SJR 2017 0.33
 - [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
 #### Journals:
 - [International Journal on Document Analysis and Recognition](https://www.springer.com/computer/image+processing/journal/10032) - 2017 Impact Factor 1.298
