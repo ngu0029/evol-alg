@@ -36,6 +36,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 > - [Find out the journals that could be best suited for publishing your research](https://www.elsevier.com/authors/journal-authors/submit-your-paper#find) on Elsevier.
 > - Search for key words in [Scimago](http://www.scimagojr.com/), e.g. "pattern recognition", "document analysis", "digital libraries", ...
 > - Search in [sciencedirect](https://www.sciencedirect.com/search) for related papers and look for related journals
+> - Google search, e.g. "post ocr correction in information processing and management journal" will look for papers having references to journal "information processing and management journal"
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
