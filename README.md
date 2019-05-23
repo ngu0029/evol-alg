@@ -22,10 +22,11 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Conference on Document Analysis and Recognition -  ICDAR](https://icdar2019.org/) - submitted in Feb, [Post-OCR Correction](https://sites.google.com/view/icdar2019-postcorrectionocr/home?authuser=0) - registered in March - SJR 2017 0.33
 - [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
 #### Journals:
-- [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/) - Q1 - 2017 IF 3.965 - [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio) - 9 wks for review
-- [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters/) - Q1 - 2017 IF 1.952 - 11 wks for review
-- [International Journal on Document Analysis and Recognition](https://www.springer.com/computer/image+processing/journal/10032) - Q2 - 2017 IF 1.298
-- [International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/worldscinet/ijprai) - Q2 - 2017 IF 1.029 - 
+- [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
+- [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), Q1, 2017 IF 3.965, [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio), 9 wks for review
+- [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters/), Q1, 2017 IF 1.952, 11 wks for review > scope including digital libraries
+- [International Journal on Document Analysis and Recognition](https://www.springer.com/computer/image+processing/journal/10032), Q2, 2017 IF 1.298
+- [International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/worldscinet/ijprai), Q2, 2017 IF 1.029 - 
 #### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
 > - ISI - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D)
@@ -34,6 +35,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 > - [Journal Article Publishing Support Center Q&A](https://service.elsevier.com/app/home/supporthub/publishing/), e.g. [When can I expect a decision from the Editor](https://service.elsevier.com/app/answers/detail/a_id/5992/supporthub/publishing/p/10592/)
 > - [Find out the journals that could be best suited for publishing your research](https://www.elsevier.com/authors/journal-authors/submit-your-paper#find) on Elsevier.
 > - Search for key words in [Scimago](http://www.scimagojr.com/), e.g. "pattern recognition", "document analysis", "digital libraries", ...
+> - Search in [sciencedirect](https://www.sciencedirect.com/search) for related papers and look for related journals
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
