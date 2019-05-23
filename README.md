@@ -23,8 +23,8 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
 #### Journals:
 - [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
-- [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), Q1, 2017 IF 3.965, [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio), 9 wks for review
-- [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters/), Q1, 2017 IF 1.952, 11 wks for review > scope including digital libraries
+- [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), Q1, 2017 IF 3.965, SJR 1.065, [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio), 9 wks for review
+- [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters/), Q1, 2017 IF 1.952, SJR 0.662, 11 wks for review > scope including digital libraries
 - [International Journal on Document Analysis and Recognition](https://www.springer.com/computer/image+processing/journal/10032), Q2, 2017 IF 1.298
 - [International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/worldscinet/ijprai), Q2, 2017 IF 1.029 - 
 #### Guidance:
