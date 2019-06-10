@@ -29,7 +29,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/worldscinet/ijprai), Q2, 2017 IF 1.029 - 
 #### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
-> - ISI - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D)
+> - [ISI Web of Science](http://mjl.clarivate.com/) - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D), danh mục [Emerging SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=EX)
 > - Danh mục Scorpus - tại [Scorpus](https://www.scopus.com/sources?zone=&origin=sbrowse), tại [Elsevier Scorpus](http://www.elsevier.com/solutions/scopus/content), nhanh hơn tại [Scimago](http://www.scimagojr.com/)
 - Tips:
 > - [Journal Article Publishing Support Center Q&A](https://service.elsevier.com/app/home/supporthub/publishing/), e.g. [When can I expect a decision from the Editor](https://service.elsevier.com/app/answers/detail/a_id/5992/supporthub/publishing/p/10592/)
