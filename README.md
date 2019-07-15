@@ -29,7 +29,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Journal on Document Analysis and Recognition](https://www.springer.com/computer/image+processing/journal/10032), Q2, 2017 IF 1.298
 - [International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/worldscinet/ijprai), Q2, 2017 IF 1.029 - 
 - [Journal of Heuristics](https://www.springer.com/mathematics/journal/10732?cm_mmc=sgw-_-ps-_-journal-_-10732), [scorpus](https://www.scopus.com/sourceid/24358), [SCIE](http://humg.edu.vn/nghien-cuu/Pages/bai-bao-dang-tren-he-thong-isi.aspx?ItemID=6406), Q2, 2017 IF 1.129, 2017 SJR 1.008
-- [Scientific and Technical Information Processing](https://www.springer.com/computer/communication+networks/journal/11984), scorpus, Emerging SCI, SJR 0.233, Q3
+- [Scientific and Technical Information Processing](https://www.springer.com/computer/communication+networks/journal/11984), scorpus, Emerging SCI (not included in ISI yet), SJR 0.233, Q3
 #### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
 > - [ISI Web of Science](http://mjl.clarivate.com/) - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D), danh mục [Emerging SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=EX)
