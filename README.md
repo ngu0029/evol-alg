@@ -23,12 +23,13 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
 - [THE 10TH INTERNATIONAL SYMPOSIUM ON INFORMATION AND COMMUNICATION TECHNOLOGY](https://soict.org/) - Vietnam, 14 Aug
 #### Journals:
-- [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
+- [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), [ISI](http://gust.edu.vn/vn/html/tap-chi-danh-muc-isi) - [SSCI](https://en.wikipedia.org/wiki/Information_Processing_and_Management), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
 - [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), Q1, 2017 IF 3.965, SJR 1.065, [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio), 9 wks for review
 - [Pattern Recognition Letters](https://www.journals.elsevier.com/pattern-recognition-letters/), Q1, 2017 IF 1.952, SJR 0.662, 11 wks for review > scope including digital libraries
 - [International Journal on Document Analysis and Recognition](https://www.springer.com/computer/image+processing/journal/10032), Q2, 2017 IF 1.298
 - [International Journal of Pattern Recognition and Artificial Intelligence](https://www.worldscientific.com/worldscinet/ijprai), Q2, 2017 IF 1.029 - 
-- [Journal of Heuristics](https://www.springer.com/mathematics/journal/10732?cm_mmc=sgw-_-ps-_-journal-_-10732), [scorpus](https://www.scopus.com/sourceid/24358), SCIE, Q2, 2017 IF 1.129, 2017 SJR 1.008
+- [Journal of Heuristics](https://www.springer.com/mathematics/journal/10732?cm_mmc=sgw-_-ps-_-journal-_-10732), [scorpus](https://www.scopus.com/sourceid/24358), [SCIE](http://humg.edu.vn/nghien-cuu/Pages/bai-bao-dang-tren-he-thong-isi.aspx?ItemID=6406), Q2, 2017 IF 1.129, 2017 SJR 1.008
+- [Scientific and Technical Information Processing](https://www.springer.com/computer/communication+networks/journal/11984), scorpus, Emerging SCI, SJR 0.233, Q3
 #### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
 > - [ISI Web of Science](http://mjl.clarivate.com/) - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D), danh mục [Emerging SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=EX)
