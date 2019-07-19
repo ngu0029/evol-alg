@@ -22,6 +22,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [International Conference on Document Analysis and Recognition -  ICDAR](https://icdar2019.org/) - submitted in Feb, [Post-OCR Correction](https://sites.google.com/view/icdar2019-postcorrectionocr/home?authuser=0) - registered in March - SJR 2017 0.33
 - [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
 - [THE 10TH INTERNATIONAL SYMPOSIUM ON INFORMATION AND COMMUNICATION TECHNOLOGY](https://soict.org/) - Vietnam, 14 Aug
+- [The IEEE International Conference on Knowledge and Systems Engineering (KSE](http://kse2019.ued.udn.vn/welcome) - Vietnam, 15 Jun, IEEE indexed, special session "Asian Natural Language Processing"
 #### Journals:
 - [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), [ISI](http://gust.edu.vn/vn/html/tap-chi-danh-muc-isi) - [SSCI](https://en.wikipedia.org/wiki/Information_Processing_and_Management), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
 - [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), Q1, 2017 IF 3.965, SJR 1.065, [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio), 9 wks for review
