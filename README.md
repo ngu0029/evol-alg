@@ -24,6 +24,9 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [THE 10TH INTERNATIONAL SYMPOSIUM ON INFORMATION AND COMMUNICATION TECHNOLOGY](https://soict.org/) - Vietnam, 14 Aug
 - [The IEEE International Conference on Knowledge and Systems Engineering (KSE](http://kse2019.ued.udn.vn/welcome) - Vietnam, 15 Jun, IEEE indexed, special session "Asian Natural Language Processing"
 - [The 19th International Symposium on Communications and Information Technologies (ISCIT 2019)](http://iscit2019.org/) - Vietnam, 30 May, IEEE indexed, topics "Evolutionary Computation", "NLP"
+- [16th International Conference of the Pacific Association for Computational Linguistics (PACLING 2019)](https://pacling2019.fpt.edu.vn/call-for-paper/) - Vietnam, Jul 5, Workshop style conference, all topics about Computational Linguistics
+- [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters) - Scorpus Q2, SCIE IF 0.914 (see Author Info Pack pdf), Devoted to the Rapid Publication of Short Contributions to Information Processing (limited in length to nine pages)
+
 #### Journals:
 - [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), [ISI](http://gust.edu.vn/vn/html/tap-chi-danh-muc-isi) - [SSCI](https://en.wikipedia.org/wiki/Information_Processing_and_Management), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
 - [Pattern Recognition](https://www.journals.elsevier.com/pattern-recognition/), Q1, 2017 IF 3.965, SJR 1.065, [Special Issue on Bio/Neuroscience inspired pattern recognition](https://www.journals.elsevier.com/pattern-recognition/call-for-papers/special-issue-on-bioneuroscience-inspired-pattern-recognitio), 9 wks for review
