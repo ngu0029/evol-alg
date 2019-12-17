@@ -52,3 +52,8 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
   - [ACM > click on BibTeX](https://dl.acm.org/)
   - [ResearchGate > click on Download citation](https://www.researchgate.net/directory/publications)
   - [IEEExplore > click on Download Citations symbol > choose as Plain text (for paper cite) or BibTeX](https://ieeexplore.ieee.org)
+
+### Scholarships
+- Chính thức công bố và khởi động từ tháng 3/2019, tính đến tháng 11/2019, VinIF đã giải ngân học bổng cho trên 90% cho các học viên được lựa chọn. Chương trình sẽ tiếp sẽ tiếp tục được triển khai hàng năm với thời gian nhận hồ sơ từ [1/4 – 15/7]().
+- https://giaoduc.net.vn/giao-duc-24h/vingroup-tai-tro-1-trieu-do-la-my-dao-tao-thac-si-tien-si-post205426.gd
+- http://vinif.org/hoc-bong-thac-si-tien-si-trong-nuoc/
