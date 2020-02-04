@@ -27,6 +27,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [16th International Conference of the Pacific Association for Computational Linguistics (PACLING 2019)](https://pacling2019.fpt.edu.vn/call-for-paper/) - Vietnam, Jul 5, Workshop style conference, all topics about Computational Linguistics
 - [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters) - Scorpus Q2, SCIE IF 0.914 (see Author Info Pack pdf), Devoted to the Rapid Publication of Short Contributions to Information Processing (limited in length to nine pages)
 - [4th International Conference on Advanced Engineering and ICT-Convergence 2020 (ICAEIC-2020)](http://ictaes.org/4th-international-conference/call-for-paper/), Nov. 14 2019 for submission
+- [SoMeT 2020 : New Trends in Intelligent Software Methodologies, Tools and Techniques](https://jsasaki3.wixsite.com/somet2020) - [Special Session: Knowledge Science and Intelligent Computing (KSIC)](https://jsasaki3.wixsite.com/somet2020/special-sessions-1) - Scorpus - March 20, 2020 for submission
 
 #### Journals:
 - [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), [ISI](http://gust.edu.vn/vn/html/tap-chi-danh-muc-isi) - [SSCI](https://en.wikipedia.org/wiki/Information_Processing_and_Management), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
