@@ -18,16 +18,17 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 
 ### Conferences, Journals
 #### Conferences:
-- [ACM/IEEE Joint Conference on Digital Libraries - JCDL](https://2019.jcdl.org/cfps/deadlines/) - submitted in Jan - SJR 2017 0.36
-- [International Conference on Document Analysis and Recognition -  ICDAR](https://icdar2019.org/) - submitted in Feb, [Post-OCR Correction](https://sites.google.com/view/icdar2019-postcorrectionocr/home?authuser=0) - registered in March - SJR 2017 0.33
-- [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in Jun
-- [THE 10TH INTERNATIONAL SYMPOSIUM ON INFORMATION AND COMMUNICATION TECHNOLOGY](https://soict.org/) - Vietnam, 14 Aug
-- [The IEEE International Conference on Knowledge and Systems Engineering (KSE](http://kse2019.ued.udn.vn/welcome) - Vietnam, 15 Jun, IEEE indexed, special session "Asian Natural Language Processing"
-- [The 19th International Symposium on Communications and Information Technologies (ISCIT 2019)](http://iscit2019.org/) - Vietnam, 30 May, IEEE indexed, topics "Evolutionary Computation", "NLP"
-- [16th International Conference of the Pacific Association for Computational Linguistics (PACLING 2019)](https://pacling2019.fpt.edu.vn/call-for-paper/) - Vietnam, Jul 5, Workshop style conference, all topics about Computational Linguistics
+- [ACM/IEEE Joint Conference on Digital Libraries - JCDL](https://2019.jcdl.org/cfps/deadlines/) - submitted in **Jan** - SJR 2017 0.36
+- [International Conference on Document Analysis and Recognition -  ICDAR](https://icdar2019.org/) - submitted in **Feb**, [Post-OCR Correction](https://sites.google.com/view/icdar2019-postcorrectionocr/home?authuser=0) - registered in March - SJR 2017 0.33
+- [The 19th International Symposium on Communications and Information Technologies (ISCIT 2019)](http://iscit2019.org/) - Vietnam, 30 **May**, IEEE indexed, topics "Evolutionary Computation", "NLP"
+- [International Conference on Asia-Pacific Digital Libraries - ICADL](http://icadl2019.org/) - paper submission in **Jun**
+- [The IEEE International Conference on Knowledge and Systems Engineering (KSE](http://kse2019.ued.udn.vn/welcome) - Vietnam, 15 **Jun**, IEEE indexed, special session "Asian Natural Language Processing"
+- [16th International Conference of the Pacific Association for Computational Linguistics (PACLING 2019)](https://pacling2019.fpt.edu.vn/call-for-paper/) - Vietnam, **Jul** 5, Workshop style conference, all topics about Computational Linguistics
+- [THE 10TH INTERNATIONAL SYMPOSIUM ON INFORMATION AND COMMUNICATION TECHNOLOGY - SoICT](https://soict.org/) - Vietnam, 14 **Aug**
 - [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters) - Scorpus Q2, SCIE IF 0.914 (see Author Info Pack pdf), Devoted to the Rapid Publication of Short Contributions to Information Processing (limited in length to nine pages)
-- [4th International Conference on Advanced Engineering and ICT-Convergence 2020 (ICAEIC-2020)](http://ictaes.org/4th-international-conference/call-for-paper/), Nov. 14 2019 for submission
-- [SoMeT 2020 : New Trends in Intelligent Software Methodologies, Tools and Techniques](https://jsasaki3.wixsite.com/somet2020) - [Special Session: Knowledge Science and Intelligent Computing (KSIC)](https://jsasaki3.wixsite.com/somet2020/special-sessions-1) - Scorpus - March 20, 2020 for submission
+- [4th International Conference on Advanced Engineering and ICT-Convergence 2020 (ICAEIC-2020)](http://ictaes.org/4th-international-conference/call-for-paper/), **Nov.** 14 2019 for submission
+- [SoMeT 2020 : New Trends in Intelligent Software Methodologies, Tools and Techniques](https://jsasaki3.wixsite.com/somet2020) - [Special Session: Knowledge Science and Intelligent Computing (KSIC)](https://jsasaki3.wixsite.com/somet2020/special-sessions-1) - **Scorpus** - **March** 20, 2020 for submission
+- [The 7th International Conference on Future Data and Security Engineering (FDSE)](http://www.thefdse.org/) - **Scopus**, First Stage Submission - **June** 25, 2020, Second Stage Submission - **August** 01, 2020
 
 #### Journals:
 - [Information Processing & Management](https://www.journals.elsevier.com/information-processing-and-management/), [ISI](http://gust.edu.vn/vn/html/tap-chi-danh-muc-isi) - [SSCI](https://en.wikipedia.org/wiki/Information_Processing_and_Management), Q1, 2017 IF 3.444, SJR 0.92, 3-9 wks for review > scope including digital libraries
