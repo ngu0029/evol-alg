@@ -39,7 +39,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [Journal of Heuristics](https://www.springer.com/mathematics/journal/10732?cm_mmc=sgw-_-ps-_-journal-_-10732), [scopus](https://www.scopus.com/sourceid/24358), [SCIE](http://humg.edu.vn/nghien-cuu/Pages/bai-bao-dang-tren-he-thong-isi.aspx?ItemID=6406), Q2, 2017 IF 1.129, 2017 SJR 1.008, [Areas of Interest](http://www.guide2research.com/journal/journal-of-heuristics)
 - [Scientific and Technical Information Processing](https://www.springer.com/computer/communication+networks/journal/11984), scopus, Emerging SCI (not included in ISI yet), SJR 0.233, Q3
 - [International Journal of Advanced Engineering (IJAE)](http://ictaes.org/journal/ijae/ijiea-home/), [not yet Scopus, ISI](http://ictaes.org/journal/ijae/abstracting-indexing/)
-### Journals for quick processing
+#### Journals for quick processing
 - [Journal of Engineering Science and Technology (JESTEC)](http://jestec.taylors.edu.my/) - **Scopus, ESCI Q2, Open Access**, USD300 per article, minimum 8 pages and maximum 15-18 pages, publishes 6 issues per year not including special issues
 - [ASEAN Engineering Journal (AEJ)](http://www.aseanengineering.net/aej/) - **[Scopus from 2019](http://www.aseanengineering.net/aej/announcements.php)**, 2 issues per year, **open access** and not charge any fee for publication, one of focuses is Computer and Info Engineering
 - [Jurnal Teknologi (Sciences and Engineering)](https://jurnalteknologi.utm.my/index.php/jurnalteknologi) - Scopus, ESCI Q2, published online six time a year (January, March, May, July, September and November), focus on Applied Mathematics and Natural Sciences
