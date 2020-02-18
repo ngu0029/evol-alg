@@ -39,8 +39,11 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [Journal of Heuristics](https://www.springer.com/mathematics/journal/10732?cm_mmc=sgw-_-ps-_-journal-_-10732), [scopus](https://www.scopus.com/sourceid/24358), [SCIE](http://humg.edu.vn/nghien-cuu/Pages/bai-bao-dang-tren-he-thong-isi.aspx?ItemID=6406), Q2, 2017 IF 1.129, 2017 SJR 1.008, [Areas of Interest](http://www.guide2research.com/journal/journal-of-heuristics)
 - [Scientific and Technical Information Processing](https://www.springer.com/computer/communication+networks/journal/11984), scopus, Emerging SCI (not included in ISI yet), SJR 0.233, Q3
 - [International Journal of Advanced Engineering (IJAE)](http://ictaes.org/journal/ijae/ijiea-home/), [not yet Scopus, ISI](http://ictaes.org/journal/ijae/abstracting-indexing/)
+### Journals for quick processing
+- [Journal of Engineering Science and Technology (JESTEC)](http://jestec.taylors.edu.my/) - Scopus, ESCI Q2, Open Access, USD300 per article, minimum 8 pages and maximum 15-18 pages
+- []()
 
-#### Guidance:
+### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
 > ISI là các tạp chí khoa học theo phân loại của Viện Thông tin khoa học Hoa Kỳ (Institute for Scientific Information), bao hàm cả SCI, SCIE, ESCI, SSCI và A&HCI.
 > - [ISI Web of Science](http://mjl.clarivate.com/) - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D), danh mục [Emerging SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=EX)
