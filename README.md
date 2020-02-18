@@ -42,14 +42,23 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 
 #### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
+> ISI là các tạp chí khoa học theo phân loại của Viện Thông tin khoa học Hoa Kỳ (Institute for Scientific Information), bao hàm cả SCI, SCIE, ESCI, SSCI và A&HCI.
 > - [ISI Web of Science](http://mjl.clarivate.com/) - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D), danh mục [Emerging SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=EX)
-> - Danh mục Scopus - tại [Scopus](https://www.scopus.com/sources?zone=&origin=sbrowse), tại [Elsevier Scopus](http://www.elsevier.com/solutions/scopus/content), nhanh hơn tại [Scimago](http://www.scimagojr.com/)
+> Scopus là các tạp chí khoa học theo phân loại của Nhà xuất bản Elsevier (Hà Lan).
+> - Danh mục Scopus - tại [Scopus](https://www.scopus.com/sources?zone=&origin=NO%20ORIGIN%20DEFINED), tại [Elsevier Scopus](http://www.elsevier.com/solutions/scopus/content)
+> Để tra cứu chỉ số xếp hạng của tạp chí khoa học quốc tế thuộc từng lĩnh vực nghiên cứu (chỉ số Quartile rankings, chia thành 4 loại từ Q1 đến Q4 phụ thuộc vào chỉ số IF của tạp chí)
+> - [Scimago](https://www.scimagojr.com/index.php)
+> Mỗi tạp chí khoa học quốc tế có thể thuộc nhiều lĩnh vực nghiên cứu khác nhau. Mỗi lĩnh vực nghiên cứu có chỉ số phân loại Q (Quartile rankings) khác nhau.
 - Tips:
 > - [Journal Article Publishing Support Center Q&A](https://service.elsevier.com/app/home/supporthub/publishing/), e.g. [When can I expect a decision from the Editor](https://service.elsevier.com/app/answers/detail/a_id/5992/supporthub/publishing/p/10592/)
 > - [Find out the journals that could be best suited for publishing your research](https://www.elsevier.com/authors/journal-authors/submit-your-paper#find) on Elsevier.
 > - Search for key words in [Scimago](http://www.scimagojr.com/), e.g. "pattern recognition", "document analysis", "digital libraries", ...
 > - Search in [sciencedirect](https://www.sciencedirect.com/search) for related papers and look for related journals
 > - Google search, e.g. "post ocr correction in information processing and management journal" will look for papers having references to journal "information processing and management journal"
+
+### Danh mục các tạp chí không được công nhận 
+- https://predatoryjournals.com/journals/
+- Các căn cứ để phân loại dựa vào 3 nguồn thông tin dữ liệu đáng tin cậy: NAFOSTED (http://nafosted.gov.vn), Clarivate Analytics (http://science.thomsonreuters.com), and SCIMAGO (http://scimagojr.com)
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
