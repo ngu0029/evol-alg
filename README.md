@@ -40,8 +40,9 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 - [Scientific and Technical Information Processing](https://www.springer.com/computer/communication+networks/journal/11984), scopus, Emerging SCI (not included in ISI yet), SJR 0.233, Q3
 - [International Journal of Advanced Engineering (IJAE)](http://ictaes.org/journal/ijae/ijiea-home/), [not yet Scopus, ISI](http://ictaes.org/journal/ijae/abstracting-indexing/)
 ### Journals for quick processing
-- [Journal of Engineering Science and Technology (JESTEC)](http://jestec.taylors.edu.my/) - Scopus, ESCI Q2, Open Access, USD300 per article, minimum 8 pages and maximum 15-18 pages
-- []()
+- [Journal of Engineering Science and Technology (JESTEC)](http://jestec.taylors.edu.my/) - **Scopus, ESCI Q2, Open Access**, USD300 per article, minimum 8 pages and maximum 15-18 pages, publishes 6 issues per year not including special issues
+- [ASEAN Engineering Journal (AEJ)](http://www.aseanengineering.net/aej/) - **[Scopus from 2019](http://www.aseanengineering.net/aej/announcements.php)**, 2 issues per year, **open access** and not charge any fee for publication, one of focuses is Computer and Info Engineering
+- [Jurnal Teknologi (Sciences and Engineering)](https://jurnalteknologi.utm.my/index.php/jurnalteknologi) - Scopus, ESCI Q2, published online six time a year (January, March, May, July, September and November), focus on Applied Mathematics and Natural Sciences
 
 ### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
