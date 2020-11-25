@@ -50,12 +50,13 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 
 ### Guidance:
 - [Kiểm tra thông tin tạp chí](http://ueb.edu.vn/newsdetail/ve_pp/15228/gioi-thieu-cach-thuc-kiem-tra-do-uy-tin-cua-cac-tap-chi-quoc-te.htm)
-> [Theo hướng dẫn ĐH HUTECH: ISI/Scopus and Predator](https://www.hutech.edu.vn/khoahoccongnghe/nckh-giang-vien/14586146-tra-cuu-cac-danh-muc-tap-chi-khoa-hoc)
 > ISI là các tạp chí khoa học theo phân loại của Viện Thông tin khoa học Hoa Kỳ (Institute for Scientific Information), bao hàm cả SCI, SCIE, ESCI, SSCI và A&HCI.
 > - [ISI Web of Science](http://mjl.clarivate.com/) - danh mục [SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=K), danh mục [SCIE](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=D), danh mục [Emerging SCI](http://mjl.clarivate.com/cgi-bin/jrnlst/jloptions.cgi?PC=EX)
 
 > Scopus là các tạp chí khoa học theo phân loại của Nhà xuất bản Elsevier (Hà Lan).
 > - Danh mục Scopus - tại [Scopus](https://www.scopus.com/sources?zone=&origin=NO%20ORIGIN%20DEFINED), tại [Elsevier Scopus](http://www.elsevier.com/solutions/scopus/content)
+
+> [Theo hướng dẫn ĐH HUTECH: ISI/Scopus and Predator](https://www.hutech.edu.vn/khoahoccongnghe/nckh-giang-vien/14586146-tra-cuu-cac-danh-muc-tap-chi-khoa-hoc)
 
 > Để tra cứu chỉ số xếp hạng của tạp chí khoa học quốc tế thuộc từng lĩnh vực nghiên cứu (chỉ số Quartile rankings, chia thành 4 loại từ Q1 đến Q4 phụ thuộc vào chỉ số IF của tạp chí)
 > - [Scimago](https://www.scimagojr.com/index.php)
