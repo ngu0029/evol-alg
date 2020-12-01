@@ -75,6 +75,7 @@ Optimization of Deep Neural Networks](https://arxiv.org/pdf/1810.06773.pdf)
 
 ### Xếp hạng hội nghị (rank A-E)
 - Xếp hạng hội nghị theo xếp hạng của tổ chức ERA: http://portal.core.edu.au/conf-ranks/?search=SOMET&by=all&source=CORE2017&sort=atitle&page=1
+- Xếp hạng hội nghị theo CORE http://portal.core.edu.au/conf-ranks/ hoặc http://www.conferenceranks.com/
 
 ### Cite
 - [Using Google Scholar, search for a paper](https://scholar.google.com/schhp?hl=en)
